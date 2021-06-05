@@ -1,0 +1,72 @@
+[
+    {
+        "type": "elephant",
+        "name": "Sammy",
+        "age": 54,
+        "gender": false,
+        "weight": 400 
+    },
+    {
+        "type": "elephant",
+        "name": "Ed",
+        "age": 24,
+        "gender": true,
+        "weight": 367 
+    },
+    {
+        "type": "elephant",
+        "name": "John",
+        "age": 54,
+        "gender": true,
+        "weight": 450 
+    },
+    {
+        "type": "bear",
+        "name": "Beary",
+        "age": 33,
+        "gender": false,
+        "weight": 250 
+    },
+    {
+        "type": "lion",
+        "name": "Sam",
+        "age": 20,
+        "gender": true,
+        "weight": 200 
+    },
+    {
+        "type": "bear",
+        "name": "Eddy",
+        "age": 24,
+        "gender": true,
+        "weight": 120 
+    },
+    {
+        "type": "sloth",
+        "name": "Lily",
+        "age": 14,
+        "gender": false,
+        "weight": 10 
+    },
+    {
+        "type": "cheetah",
+        "name": "John",
+        "age": 20,
+        "gender": true,
+        "weight": 50 
+    },
+    {
+        "type": "horse",
+        "name": "Morgan",
+        "age": 15,
+        "gender": false,
+        "weight": 150 
+    },
+    {
+        "type": "mouse",
+        "name": "Shelby",
+        "age": 3,
+        "gender": false,
+        "weight": 0.3 
+    }
+]
